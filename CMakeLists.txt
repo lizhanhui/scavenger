@@ -3,4 +3,4 @@ project(Scavenger)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Scavenger main.cpp)
+add_executable(scavenger main.cpp)
